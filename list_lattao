@@ -1,0 +1,10 @@
+
+mga_selpon = ["vivo,samsung,xiaomi,huawei"]
+mga_presyo = [1600,2500,5500,5500]
+
+
+for x in range(len(mga_selpon)):
+    print(mga_selpon[x])
+
+for y in range(len(mga_presyo)):
+    print(mga_presyo[y])
